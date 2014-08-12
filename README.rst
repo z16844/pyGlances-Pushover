@@ -7,12 +7,12 @@ If Idle_CPU or Idle_RAM is under 20%, notify on Pushover
 Requirements
 -------
 
-Python-Glances:target: https://github.com/nicolargo/glances
+Python-Glances:(https://github.com/nicolargo/glances)
 Get Archive file or install using command-line
 Debian or Ubuntu : ``apt-get install python-glances``
 python : ``pip install glances`` or ``easy_install glances``
 
-Pushover:target:https://pushover.net
+Pushover(https://pushover.net)
 
 
 Usage
